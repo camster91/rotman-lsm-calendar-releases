@@ -1,3 +1,5 @@
+This repo is archived and no longer maintained.
+
 # Rcalendar releases
 
 This repository has no published releases or installer downloads.
